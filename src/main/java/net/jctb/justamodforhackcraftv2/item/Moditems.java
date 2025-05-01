@@ -32,7 +32,7 @@ public class Moditems {
             () -> new DrillItem(ModToolTiers.CHARGED_STEEL, new Item.Properties()
                     .attributes(PickaxeItem.createAttributes(ModToolTiers.CHARGED_STEEL, 7, -3.5f))));
     public static final RegistryObject<Item> ENERGIZER = ITEMS.register("energizer" ,
-            () -> new FuelItem(new Item.Properties(),300));
+            () -> new FuelItem(new Item.Properties(),30000));
     public static final RegistryObject<Item> SUPERTATER = ITEMS.register("supertater" ,
             () -> new Item(new Item.Properties().food(ModFoodProperties.SUPERTATER)));
     public static final RegistryObject<Item> DRILL_BIT = ITEMS.register("drill_bit" ,
