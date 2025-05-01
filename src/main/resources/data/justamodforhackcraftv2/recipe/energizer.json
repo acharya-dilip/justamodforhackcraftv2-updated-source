@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "ISI",
+    "CIC"
+  ],
+  "key": {
+    "C": {
+      "item": "justamodforhackcraftv2:steel_block"
+    },
+    "I": {
+      "item": "justamodforhackcraftv2:steel_block_reinforced"
+    },
+    "S": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "id": "justamodforhackcraftv2:energizer",
+    "count": 1
+  }
+}

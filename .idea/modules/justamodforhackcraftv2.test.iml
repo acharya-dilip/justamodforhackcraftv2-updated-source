@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>MCP</platformType>
+          <platformType>MIXIN</platformType>
+          <platformType>FORGE</platformType>
+        </autoDetectTypes>
+        <projectReimportVersion>1</projectReimportVersion>
+      </configuration>
+    </facet>
+  </component>
+  <component name="McpModuleSettings">
+    <option name="mappingFile" value="C:\Users\JCT-Biura\Downloads\justamodforhackcraftv2\build\createMcpToSrg\output.tsrg" />
+    <option name="mcpVersion" value="parchment_2024.11.17-1.21.1" />
+    <option name="minecraftVersion" value="1.21" />
+    <option name="platformVersion" value="51.0.33" />
+    <option name="srgType" value="TSRG" />
+  </component>
+</module>

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "ISI",
+    "CIC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "justamodforhackcraftv2:steel_block"
+    }
+  },
+  "result": {
+    "id": "justamodforhackcraftv2:steel_block_reinforced",
+    "count": 1
+  }
+}

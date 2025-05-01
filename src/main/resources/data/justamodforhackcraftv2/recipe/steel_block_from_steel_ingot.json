@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "justamodforhackcraftv2:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "justamodforhackcraftv2:steel_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+/difficulty peaceful
+/effect give Dev minecraft:haste infinite 2
+/effect clear
+/reload
+/kill @e
+/recipe give @a justamodforhackcraftv2:supertater
+/reload
+/kill
+/time set day
+/gamerule doDaylightCycle false
+/effect give @a minecraft:night_vision infinite 1 true
+/difficulty easy
+/reload

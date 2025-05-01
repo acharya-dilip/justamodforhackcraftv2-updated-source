@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "CRC",
+    "CCC"
+  ],
+  "key": {
+    "S": {
+      "item": "justamodforhackcraftv2:steel_drill"
+    },
+    "C": {
+      "item": "justamodforhackcraftv2:steel_block_reinforced"
+    },
+    "R": {
+      "item": "justamodforhackcraftv2:energizer"
+    }
+  },
+  "result": {
+    "id": "justamodforhackcraftv2:charged_steel_drill",
+    "count": 1
+  }
+}

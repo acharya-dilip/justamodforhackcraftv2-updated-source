@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "CRC",
+    "CCC"
+  ],
+  "key": {
+    "S": {
+      "item": "justamodforhackcraftv2:drill_bit"
+    },
+    "R": {
+      "item": "justamodforhackcraftv2:steel_block_reinforced"
+    },
+    "C": {
+      "item": "justamodforhackcraftv2:steel_casing"
+    }
+  },
+  "result": {
+    "id": "justamodforhackcraftv2:steel_drill",
+    "count": 1
+  }
+}

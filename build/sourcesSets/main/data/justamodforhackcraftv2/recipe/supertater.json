@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CRC",
+    "CCC"
+  ],
+  "key": {
+    "R": {
+      "item": "justamodforhackcraftv2:energizer"
+    },
+    "C": {
+      "item": "minecraft:poisonous_potato"
+    }
+  },
+  "result": {
+    "id": "justamodforhackcraftv2:supertater",
+    "count": 1
+  }
+}

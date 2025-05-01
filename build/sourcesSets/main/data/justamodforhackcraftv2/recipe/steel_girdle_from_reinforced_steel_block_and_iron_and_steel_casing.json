@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "SRS",
+    "SCS"
+  ],
+    "key": {
+      "R": {
+        "item": "justamodforhackcraftv2:steel_block_reinforced"
+      },
+      "S": {
+        "item": "minecraft:iron_ingot"
+      },
+      "C": {
+        "item": "justamodforhackcraftv2:steel_casing"
+       }
+      },
+      "result": {
+        "id": "justamodforhackcraftv2:steel_girdle",
+        "count": 8
+      }
+    }
