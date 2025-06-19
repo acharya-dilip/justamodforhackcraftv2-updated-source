@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Specification-Title: justamodforhackcraftv2
 Specification-Vendor: Dilip Acharya, other authors
 Specification-Version: 1
-Implementation-Title: justamodforhackcraftv2
+Implementation-Title: Steel Mayhem
 Implementation-Version: 1.0.0
 Implementation-Vendor: Dilip Acharya, other authors
 

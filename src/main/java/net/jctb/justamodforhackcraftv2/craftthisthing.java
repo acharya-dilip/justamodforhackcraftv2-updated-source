@@ -78,7 +78,9 @@ public class craftthisthing
 
 //Event Case for adding a block to the minecraft using this mod and this condition helps to get the work done to add the blocks to the game and use it as regular blocks
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
+            //adding steel blocks to the building blocks tab
             event.accept(ModBlocks.STEEL_BLOCK);
+            //adding reinforced steel blocks to the building blocks tab
             event.accept(ModBlocks.STEEL_BLOCK_REINFORCED);
             event.accept(ModBlocks.STEEL_CASING);
             event.accept(ModBlocks.STEEL_GIRDLE);

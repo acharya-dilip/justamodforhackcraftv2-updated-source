@@ -22,22 +22,28 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, craftthisthing.MOD_ID);
 
 
-
+    //defining steel block
     public static final RegistryObject<Block> STEEL_BLOCK = registerBlock("steel_block",
             () -> new Block(BlockBehaviour.Properties.of().strength(4.0F).requiresCorrectToolForDrops().sound(SoundType.METAL)));
-
+    //defining reinforced steel block
     public static final RegistryObject<Block> STEEL_BLOCK_REINFORCED= registerBlock("steel_block_reinforced",
             () -> new Block(BlockBehaviour.Properties.of().strength(4.0F).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
+    //defining steel casing
     public static final RegistryObject<Block> STEEL_CASING= registerBlock("steel_casing",
             () -> new Block(BlockBehaviour.Properties.of().strength(4.0F).requiresCorrectToolForDrops().sound(SoundType.LODESTONE)));
+    //defining steel girdle
     public static final RegistryObject<Block> STEEL_GIRDLE= registerBlock("steel_girdle",
             () -> new Block(BlockBehaviour.Properties.of().strength(4.0F).requiresCorrectToolForDrops().sound(SoundType.LODESTONE)));
+    //defining steel lamp
     public static final RegistryObject<Block> STEEL_LAMP= registerBlock("steel_lamp",
             () -> new Block(BlockBehaviour.Properties.of().strength(4.0F).requiresCorrectToolForDrops().sound(SoundType.COPPER).lightLevel((state) -> 15)));
+    //defining steel lamp green
     public static final RegistryObject<Block> STEEL_LAMP_GREEN= registerBlock("steel_lamp_green",
             () -> new Block(BlockBehaviour.Properties.of().strength(4.0F).requiresCorrectToolForDrops().sound(SoundType.COPPER).lightLevel((state) -> 15)));
+    //defining steel lamp red
     public static final RegistryObject<Block> STEEL_LAMP_RED= registerBlock("steel_lamp_red",
             () -> new Block(BlockBehaviour.Properties.of().strength(4.0F).requiresCorrectToolForDrops().sound(SoundType.COPPER).lightLevel((state) -> 15)));
+    //defining steel lamp blue
     public static final RegistryObject<Block> STEEL_LAMP_PURPLE= registerBlock("steel_lamp_purple",
             () -> new Block(BlockBehaviour.Properties.of().strength(4.0F).requiresCorrectToolForDrops().sound(SoundType.COPPER).lightLevel((state) -> 15)));
 

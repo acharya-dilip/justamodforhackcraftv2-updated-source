@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/justamodforhackcraftv2-updated-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/justamodforhackcraftv2-updated-source.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/justamodforhackcraftv2-updated-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/justamodforhackcraftv2-updated-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steel_Mayhem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Steel_Mayhem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steel_Mayhem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Steel_Mayhem.test.iml" />
     </modules>
   </component>
 </project>
