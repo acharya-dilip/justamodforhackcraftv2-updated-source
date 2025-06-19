@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "justamodforhackcraftv2:block/steel_lamp_purple"
-  }
-
-
-
-}
